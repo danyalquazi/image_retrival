@@ -1,2 +1,5 @@
 # image_retrival
-Information Retrieval System for image search using the BM25 model
+Contents:
+1. Notebook with the source code
+
+2. The detailed report
